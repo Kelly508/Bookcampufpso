@@ -1,0 +1,46 @@
+.contenedor{
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-shadow: 0 4px 6px rgb (0,0,0,0);
+}
+.logo{
+    width: 100%;
+    height: auto;
+    margin left: 50px;
+}
+.moto{
+    width: 300px;
+    height: auto;
+}
+.buscar{
+    padding: 10px;
+    border-radius: 100px;
+    width: 300px;
+    margin-top: 40px;
+    margin-right: 100px;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+.botonesnav{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+
+.botonesnav a {
+    text-decoration: none;
+    color: black;
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-color: rgb(250, 10, 10);
+    border-radius: 5px;
+}
+.botonesnav a:hover{
+    background-color: rgb(240, 237, 237);
+}
