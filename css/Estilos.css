@@ -10,7 +10,7 @@
 .logo{
     width: 100%;
     height: auto;
-    margin left: 50px;
+    margin-left: 10px;
 }
 .moto{
     width: 300px;
@@ -30,7 +30,7 @@
 .botonesnav{
     display: flex;
     gap: 10px;
-    justify-content: center;
+    justify-content: space-evenly;
 }
 
 .botonesnav a {
